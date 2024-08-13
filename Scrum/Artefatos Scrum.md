@@ -33,4 +33,4 @@
 
         * Utilizável pelos Stakehoders (em estado de pronto).
 
-Os 3 possuem os mesmo objetivos: Transparência e compartilhamento do entendimento gerando boas decisões.
+Os 3 possuem os mesmo objetivos: Transparência e compartilhamento do entendimento que geram boas decisões.
